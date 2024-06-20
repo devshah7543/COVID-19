@@ -26,7 +26,10 @@ To explore the dashboard and gain actionable insights:
 
   1. Clone the Repository: Download or clone the repository to your local machine.
   2. Open the Dashboard File: Use Tableau Desktop or Tableau Reader to open the .twbx dashboard file located in the repository.
-  3. Explore the Charts and Tables: Interact with the visualizations to understand COVID-19 trends and predictions.
+    - Explore the Charts and Tables: Interact with the visualizations to understand COVID-19 trends and predictions.
+  3. You can download the dataset.zip, in which you can find 3 '.csv' files, the dataset.csv is the main dataset, and the other 2 are files modified from dataset.csv to perform SQL exploration
+  4. You can use both files to explore data using SQL and also download the SQL file with queries named "COVID Data Exploration.sql"
+  5. Then, after exploration, new 4 '.csv' files were created for Tableau Exploration
 
 #### Technical Details
 - Languages and Tools: SQL, MySQL, Tableau
